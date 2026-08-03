@@ -1,0 +1,8 @@
+{
+  "name": "payment-service-v3",
+  "version": "3.0.0",
+  "private": true,
+  "dependencies": {
+    "payment-processor-sdk": "2.1.0"
+  }
+}
